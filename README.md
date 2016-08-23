@@ -1,3 +1,3 @@
 # Rpi-Tx
 # For Amateur Radio Transmitter program 
-# Used by Rpt-Fm or Piwspr PiCW..
+# Used by Rpi-Fm or Piwspr PiCW..
